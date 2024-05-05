@@ -1,6 +1,7 @@
 train
+train-unknown
 test
 _background_noise_
 Wav2Vec*
-CED*
+HUBERT*
 wandb
